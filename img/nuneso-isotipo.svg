@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 220" width="340" height="220" role="img" aria-label="Nuneso Transporte - isotipo">
+  <title>Nuneso Transporte - isotipo</title>
+  <defs><linearGradient id="ibody" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#17518D"/><stop offset="1" stop-color="#0B2E55"/></linearGradient></defs><g transform="translate(10,10)"><ellipse cx="160" cy="100" rx="153" ry="93.5" fill="#8E9BAE"/>
+    <ellipse cx="160" cy="100" rx="146" ry="87" fill="url(#ibody)"/>
+    <ellipse cx="160" cy="100" rx="136" ry="78" fill="none" stroke="#A9B6C7" stroke-width="2" opacity=".5"/>
+    <rect x="30" y="63" width="26" height="7" rx="3.5" fill="#7FB3EA"/>
+    <rect x="20" y="81" width="38" height="7" rx="3.5" fill="#A9C7EC"/>
+    <rect x="34" y="99" width="24" height="7" rx="3.5" fill="#6E9CD6"/>
+    <rect x="40" y="139" width="240" height="5" rx="2.5" fill="#C9D4E2"/>
+    <rect x="84" y="151" width="18" height="4" rx="2" fill="#7FA6D4" opacity=".85"/><rect x="118" y="151" width="18" height="4" rx="2" fill="#7FA6D4" opacity=".85"/><rect x="152" y="151" width="18" height="4" rx="2" fill="#7FA6D4" opacity=".85"/><rect x="186" y="151" width="18" height="4" rx="2" fill="#7FA6D4" opacity=".85"/>
+    <path d="M 68 52 H 190 A 6 6 0 0 1 196 58 V 106 A 6 6 0 0 1 190 112 H 68 A 6 6 0 0 1 62 106 V 58 A 6 6 0 0 1 68 52 Z M144.7 99.5H136.15L121.85000000000001 77.85V99.5H113.3V64.4H121.85000000000001L136.15 86.15V64.4H144.7Z" fill="#FFFFFF" fill-rule="evenodd"/>
+    <path d="M 200 112 V 60 Q 200 56 204 56 H 236 Q 240 56 241.5 60 L 249 84 H 268 Q 272 84 272 88 V 112 Z M 208 64 H 233 L 239.5 82 H 208 Z " fill="#FFFFFF" fill-rule="evenodd"/>
+    <path d="M 82 107 a 17 17 0 1 0 0.01 0 Z M 82 117.5 a 6.5 6.5 0 1 1 -0.01 0 Z" fill="#FFFFFF" fill-rule="evenodd"/>
+    <path d="M 122 107 a 17 17 0 1 0 0.01 0 Z M 122 117.5 a 6.5 6.5 0 1 1 -0.01 0 Z" fill="#FFFFFF" fill-rule="evenodd"/>
+    <path d="M 216 107 a 17 17 0 1 0 0.01 0 Z M 216 117.5 a 6.5 6.5 0 1 1 -0.01 0 Z" fill="#FFFFFF" fill-rule="evenodd"/>
+    <path d="M 258 107 a 17 17 0 1 0 0.01 0 Z M 258 117.5 a 6.5 6.5 0 1 1 -0.01 0 Z" fill="#FFFFFF" fill-rule="evenodd"/></g>
+</svg>
